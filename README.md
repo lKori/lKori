@@ -1,9 +1,9 @@
-<div align=center><h1>
+<div align=center><h3>
   벡앤드 개발자를 목표로 공부를 하고 있는 새내기 개발자입니다!
   <br/>
   
   JAVA와 Srping Boot에 대해 공부하고 있습니다!
-  </h1>
+  </h3>
 </div>
 
 <div align=center><h1>💻 STACKS</h1></div>
