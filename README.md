@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   <br>
-  [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuy0841)](https://solved.ac/yuy0841)
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuy0841)](https://solved.ac/yuy0841)
 </div>
 
 
